@@ -8,8 +8,7 @@ public class class1 {
 
         person p1=new person();
         
-    p1.roll=34;
-    System.out.println(p1.name+"    "+p1.roll);
+    p
 }
     
 
